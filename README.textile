@@ -1,4 +1,4 @@
-.h2 Overview
+h2. Overview
 
 So this is my code... it's a bit of a hack :-) but it has a few rspec specs in the
 specs directory.
@@ -15,7 +15,7 @@ To get actual useful work done, run:
 
 This shows a dump of what it finds, and what the objects contain.
 
-.h2 Future Work
+h2. Future Work
 
 Obviously, a lot could be done.  I think it would be useful to set up classes
 that recognize popular sites (nytimes.com, wsj.com, etc.) that don't easily give
