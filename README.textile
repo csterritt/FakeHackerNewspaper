@@ -11,7 +11,7 @@ to run them all... they should all pass.
 
 To get actual useful work done, run:
 
-% parse_hn_front_page.rb > results.txt
+% ruby parse_hn_front_page.rb > results.txt
 
 This shows a dump of what it finds, and what the objects contain.
 
